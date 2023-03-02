@@ -7,4 +7,5 @@ echo 'Ele disse: "Olá!"<br>';
 
 $idade = 15;
 
-echo "Ele tem $idade anos";
+echo "Ele tem $idade anos <br>";
+echo 'Ele tem $idade anos';
